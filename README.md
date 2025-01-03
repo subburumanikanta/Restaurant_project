@@ -1,4 +1,4 @@
-# Restaurant_projec
+# Restaurant_project
 # *Deploying Static Website using Load Balancer by ARM Template*
 ## *Project Overview*
 The *Green Fork restaurant* aims to provide an engaging, user-friendly platform that reflects the restaurant’s dedication to health, flavor, and quality. It serves as a digital representation of Green Fork’s values, emphasizing sustainability, nutrition, and culinary excellence while facilitating a seamless customer experience.The  website is designed to reflect the restaurant's mission of providing nutritious, high-quality meals without compromising on quantity or affordability. It serves as a digital platform to attract health-conscious customers who value wholesome dining options at reasonable prices, emphasizing transparency, quality, and customer satisfaction.
